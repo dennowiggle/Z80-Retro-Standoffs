@@ -7,4 +7,4 @@ STEP models of 13mm and 14mm standoffs compatible with the Z80 Retro project are
    - 14mm are used where lower board has no screw
    - These allow sufficient contact wipe on the 2063-Z80 expansion connector.
 
-One side of the stansoff has a recess around the hole that should be tapped with a 2.5mm thread tap.
+One side of the standoff model has a recess around the hole that should be tapped with a 2.5mm thread tap.
