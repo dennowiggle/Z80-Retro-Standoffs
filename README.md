@@ -1,5 +1,5 @@
 # Z80-Retro-Standoffs
-3D Printable Models of Standoffs For The [Z80 Reto!](https://github.com/Z80-Retro) Project
+3D Printable Models of Standoffs For The [Z80 Retro!](https://github.com/Z80-Retro) Project
 
 ## Models
 STEP models of 13mm and 14mm standoffs compatible with the Z80 Retro project are provided.
